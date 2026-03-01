@@ -20,12 +20,6 @@
   --muted: #666;
 }
 
-/* ============================================================
-       MOBİL — 0px ve üzeri (max-width: 479px)
-       Varsayılan stiller. En küçük ekrandan başlıyoruz.
-       Hedef cihaz: telefon (iPhone SE, Galaxy S serisi vb.)
-    ============================================================ */
-
 body {
   background: var(--bg);
   color: var(--text);
@@ -202,7 +196,7 @@ h1 {
   color: var(--accent2);
 }
 
-/* Animasyon — tüm boyutlarda aynı */
+/* Animasyon — Tum Boyutlarda Ayni */
 @keyframes pop {
   0% {
     transform: scale(1);

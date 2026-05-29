@@ -6,6 +6,8 @@ Karanlık temalı, animasyonlu, kullanıcı karşısında bilgisayarın rastgele
 
 [Proje önizleme.](https://dursunkokturk.github.io/JavaScript-Project-Game-Rock-Paper-Scissor/)
 
+![Proje Görseli](assets/img/javascript-project-rock-paper-scissor.png)
+
 ## Özellikler
 
 - Bilgisayara Karşı Oyna — Bilgisayar her turda Math.random() ile rastgele seçim yapar

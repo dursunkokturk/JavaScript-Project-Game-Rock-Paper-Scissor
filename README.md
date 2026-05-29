@@ -17,7 +17,7 @@ Karanlık temalı, animasyonlu, kullanıcı karşısında bilgisayarın rastgele
 - Duyarlı Buton Düzeni — Mobilsde butonlar alt alta, tablette ve masaüstünde yan yana dizilir
 - CSS Değişkenleri ile Tema — Tüm renkler :root üzerinden yönetilir; kolay özelleştirme
 
-🎮 Oyun Kuralları
+## Oyun Kuralları
 
 | Kullanıcı      | Bilgisayar  | Sonuç      |
 | -------------- |-------------| -----------|
@@ -28,7 +28,7 @@ Karanlık temalı, animasyonlu, kullanıcı karşısında bilgisayarın rastgele
 | Diğer durumlar | —           | Kaybettin  |
 
 
-📱 Duyarlı Düzenler
+## Duyarlı Düzenler
 
 | Ekran    | Genişlik         | Buton Düzeni                              |
 | -------- |------------------| ------------------------------------------|
@@ -36,7 +36,7 @@ Karanlık temalı, animasyonlu, kullanıcı karşısında bilgisayarın rastgele
 | Tablet   | ≥ 767px          | Yan yana, dikey (ikon üstte, metin altta) |
 | Masaüstü | ≥ 1024px         | Yan yana, daha büyük boyutlar             |
 
-🛠️ Teknolojiler
+## Teknolojiler
  
 | Teknoloji  | Açıklama                                                                        |
 | ---------- |---------------------------------------------------------------------------------|

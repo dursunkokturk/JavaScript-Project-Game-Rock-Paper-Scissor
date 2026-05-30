@@ -56,15 +56,16 @@ rock-paper-scissor/ <br>
         └── rock-paper-scissor.js <br>
 
 ## Kurulum
-Proje herhangi bir bağımlılık gerektirmez.
-bash# Repoyu klonlayın
-git clone https://github.com/kullanici-adi/rock-paper-scissor.git
+Proje herhangi bir bağımlılık gerektirmez. <br>
+bash# Repoyu klonlayın <br>
+git clone https://github.com/dursunkokturk/JavaScript-Project-Game-Rock-Paper-Scissor.git
 
 ### Proje klasörüne girin
-cd rock-paper-scissor
+cd JavaScript-Project-Game-Rock-Paper-Scissor
 
 ### index.html dosyasını tarayıcıda açın
-open index.html
+Proje klasörü içinde çift tıklayarak yada <br>
+Projeyi VSCode içinde açıp index.html dosyasının üzerinde sağ tıkladıktan sonra "Open With Live Server" tıklayarak projeyi browser'da açıyoruz.
 
 #### Not: 
 rock-paper-scissor.js dosyası defer ile yüklenir; DOM hazır olmadan önce çalışmaz.
@@ -94,7 +95,9 @@ rock-paper-scissor.js dosyası defer ile yüklenir; DOM hazır olmadan önce ça
 A dark-themed, animated rock-paper-scissors game where the computer makes random choices against the user. Scores are saved to localStorage and the scoreboard persists across page refreshes.
 
 ## Live Preview
-Project Preview
+[Project Preview](https://dursunkokturk.github.io/JavaScript-Project-Game-Rock-Paper-Scissor/)
+
+![Proje Görseli](assets/img/javascript-project-rock-paper-scissor.png)
 
 ## Features
 
@@ -149,10 +152,11 @@ bash# Clone the repo
 git clone https://github.com/username/rock-paper-scissor.git
 
 ### Navigate to the project folder
-cd rock-paper-scissor
+cd JavaScript-Project-Game-Rock-Paper-Scissor
 
 ### Open index.html in the browser
-open index.html
+Open it by double-clicking inside the project folder, or <br>
+open the project in VSCode, right-click on the index.html file, and select "Open With Live Server" to launch it in the browser.
 
 #### Note: 
 rock-paper-scissor.js is loaded with defer and will not run before the DOM is ready.
